@@ -6,7 +6,7 @@ This a java utility to flatten a nested/complex/multi-arrayed json into simple f
 
 ```xml
 <dependency>
-	<groupId>com.github.wnameless</groupId>
+	<groupId>org.github.json</groupId>
 	<artifactId>json-array-flattener</artifactId>
 	<version>0.1.0</version>
 </dependency>
