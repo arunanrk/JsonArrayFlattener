@@ -2,19 +2,6 @@ json-array-flattener
 ====================
 This a java utility to flatten a nested/complex/multi-arrayed json into simple flattened json ( 1 to n)
 
-## Maven Repo
-
-```xml
-<dependency>
-	<groupId>org.github.json</groupId>
-	<artifactId>json-array-flattener</artifactId>
-	<version>0.1.0</version>
-</dependency>
-```
-
-Since v0.1.0, Java 8 required
-
-
 ## Input:
 ```json
 {"data":[{"value":[{"mfg":"Audi","info":{"color":"white","length":3932,"abs":true,"engineSN":"ddws32","cc":3500},"infotime":1505296056837}],"brand":"X"},{"value":[{"mfg":"BMW","info":{"color":"white","length":4010,"abs":true,"engineSN":"322de","cc":3600},"infotime":1505296657333},{"mfg":"jaguar","info":{"color":"red","length":4512,"engineSN":"7766h","cc":3500},"infotime":1505296657333}],"brand":"Y"}]}
