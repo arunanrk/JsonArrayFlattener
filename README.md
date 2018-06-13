@@ -1,6 +1,6 @@
 json-array-flattener
 ====================
-This a java utility to flatten a nested/complex/multi-arrayed json into simple flattened json ( 1 to n)
+This java utility is to flatten a nested/complex/multi-arrayed json into simple flattened json ( 1 to n)
 
 ## Input:
 ```json
