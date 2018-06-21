@@ -7,7 +7,6 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Map;
 
-//latest working code
 public class JsonArrayFlattener {
     private LinkNode rootNode;
 
